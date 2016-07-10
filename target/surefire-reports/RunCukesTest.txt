@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: RunCukesTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 0.33 sec <<< FAILURE! - in RunCukesTest
+When I wait 2 hour(Scenario: a few cukes)  Time elapsed: 0.003 sec  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: is <1>
+     but: was <2>
+
+Scenario: a few cukes  Time elapsed: 0.004 sec  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: is <1>
+     but: was <2>
+
